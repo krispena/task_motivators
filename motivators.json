@@ -3,10 +3,18 @@
 		"You've got this",
 		"Small steps to big rewards"
 	],
-	"long": [
-		"The secret of getting ahead is getting started. ~ Mark Twain",
-		"Knowing is not enough; we must apply. Willing is not enough; we must do. ~ Johann Wolfgang von Goethe",
-		"The mind is everything. What you think, you become. ~ Gautama Buddha",
+	"long": [{
+			"text": "The secret of getting ahead is getting started.",
+			"author": "Mark Twain"
+		},
+		{
+			"text": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+			"author": "Johann Wolfgang von Goethe"
+		},
+		{
+			"text": "The mind is everything. What you think, you become.",
+			"author": "Gautama Buddha"
+		},
 		"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. ~ Thomas Jefferson",
 		"For success, attitude is equally as important as ability. ~ Walter Scott",
 		"A person often meets his destiny on the road he took to avoid it. ~ Jean de La Fontaine",
