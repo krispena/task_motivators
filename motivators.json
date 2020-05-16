@@ -1,13 +1,13 @@
 {
-short:[
-'You\ve got this',
-'Small steps to big rewards'
-],
-long:[
-'The secret of getting ahead is getting started. ~ Mark Twain',
-'Knowing is not enough; we must apply. Willing is not enough; we must do. ~ Johann Wolfgang von Goethe',
-'The mind is everything. What you think, you become. ~ Gautama Buddha',
-'Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. ~ Thomas Jefferson',
-'For success, attitude is equally as important as ability. ~ Walter Scott',
-]
+	"short": [
+		"You've got this",
+		"Small steps to big rewards"
+	],
+	"long": [
+		"The secret of getting ahead is getting started. ~ Mark Twain",
+		"Knowing is not enough; we must apply. Willing is not enough; we must do. ~ Johann Wolfgang von Goethe",
+		"The mind is everything. What you think, you become. ~ Gautama Buddha",
+		"Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude. ~ Thomas Jefferson",
+		"For success, attitude is equally as important as ability. ~ Walter Scott"
+	]
 }
